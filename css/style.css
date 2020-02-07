@@ -56,8 +56,7 @@ in focus, this should reposition to top left hand corner of page*/
 }
 
 .skip a:focus{
-  grid-column: 1/auto;
-  grid-row:1/auto;
+  margin-top: 0px;
 }
 /*Your code here*/
 /*Add the selector and rule to move the skip 
