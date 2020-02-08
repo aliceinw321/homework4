@@ -98,7 +98,7 @@ header{
   /*column-span: all;*/
   grid-column: 1 / -1;
   /* Set background-image to header.jpg in the images folder */
-  background-image:url('../images/header.jpg');
+  background:url('../images/header.jpg'),black;
   /* Span one row */
   grid-row: 2/span 1;
 }
